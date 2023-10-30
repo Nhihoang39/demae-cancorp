@@ -4,7 +4,7 @@ $("#banner").owlCarousel({
     smartSpeed:180, // tốc độ thay đổi ảnh
     autoplay:true, // cho phép tự động chạy
     autoplayTimeout:3200, // thời gian chờ khi chuyển ảnh khi chạy tự động
-    nav:false, // cho xuất hiện bộ nút tới lui
+    nav: false, // cho xuất hiện bộ nút tới lui
     margin:0,
     dots:false,
     rtl:true,
@@ -18,7 +18,7 @@ $("#banner").owlCarousel({
         smartSpeed:180, // tốc độ thay đổi ảnh
         autoplay:true, // cho phép tự động chạy
         autoplayTimeout:3200, // thời gian chờ khi chuyển ảnh khi chạy tự động
-        nav:false, // cho xuất hiện bộ nút tới lui
+        nav: false, // cho xuất hiện bộ nút tới lui
         margin:0,
         dots:false,
         rtl:true,
@@ -36,7 +36,7 @@ $("#text-slide").owlCarousel({
         smartSpeed:180, // tốc độ thay đổi ảnh
         autoplay:true, // cho phép tự động chạy
         autoplayTimeout:3200, // thời gian chờ khi chuyển ảnh khi chạy tự động
-        nav:false, // cho xuất hiện bộ nút tới lui
+        nav: false, // cho xuất hiện bộ nút tới lui
         margin:0,
         dots:false,
         
